@@ -1,0 +1,4 @@
+class sample.Student
+{"faculty":"-","speciality":"-","groopnumber":0,"Name":"-","Studyplase":"-","Age":0}
+class sample.diplomnik
+{"diplomtheme":"-","scientif":{"nameScient":"-","department":"-","degree":"-"},"faculty":"-","speciality":"-","groopnumber":0,"Name":"-","Studyplase":"-","Age":0}
